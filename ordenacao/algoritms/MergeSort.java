@@ -30,7 +30,8 @@ public class MergeSort implements Sorter {
 
             int i =inicio;
             int j = meio+1;
-            
+
+            for(){}
         }
     }
     @Override
